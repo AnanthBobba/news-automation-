@@ -1,0 +1,11 @@
+output/
+*.xlsx
+*.csv
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
